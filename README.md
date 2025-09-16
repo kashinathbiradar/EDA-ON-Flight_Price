@@ -5,7 +5,7 @@
     The main goal is to uncover insights about how different features such as airline, source, destination, duration, stops, and travel date influence flight ticket prices.
 
 
- ##By analyzing the dataset, we aim to:
+ ## By analyzing the dataset, we aim to:
 
     Understand data distributions and key patterns
 
@@ -15,7 +15,7 @@
 
     Prepare insights that can help in price prediction models 
 
-###Key Steps in EDA
+### Key Steps in EDA
 
    Data Cleaning
 
