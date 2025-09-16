@@ -5,7 +5,7 @@
     The main goal is to uncover insights about how different features such as airline, source, destination, duration, stops, and travel date influence flight ticket prices.
 
 
- ## By analyzing the dataset, we aim to:
+ ### By analyzing the dataset, we aim to:
 
     Understand data distributions and key patterns
 
@@ -32,3 +32,13 @@
     Splitting duration into hours and minutes
 
     Encoding categorical variables (airline, source, destination, etc.)
+    
+  Tech Stack
+
+    Python
+
+    Pandas, NumPy for data wrangling
+
+    Matplotlib, Seaborn, Plotly for visualization
+
+    Jupyter Notebook for analysis
