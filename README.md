@@ -1,8 +1,7 @@
 # EDA on Flight Price Dataset
 
 ## Project Overview
-    This project focuses on Exploratory Data Analysis (EDA) of a flight price dataset.
-    The main goal is to uncover insights about how different features such as airline, source, destination, duration, stops, and travel date influence flight ticket prices.
+This project focuses on Exploratory Data Analysis (EDA) of a flight price dataset.The main goal is to uncover insights about how different features such as airline, source, destination, duration, stops, and travel date influence flight ticket prices.
 
 
  ### By analyzing the dataset, we aim to:
